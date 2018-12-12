@@ -1,7 +1,6 @@
 {
-  "name": "jlab-setAutorun",
+  "name": "jlab-appmode",
   "version": "0.1.0",
-  "description": "JuypterLab extension: Add autorun function ",
   "homepage": "http://www.aixvipmap.de",
   "bugs": {
     "url": "https://github.com/AixViPMaP"

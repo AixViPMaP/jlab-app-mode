@@ -17,7 +17,7 @@ import {
 
 const plugin: JupyterLabPlugin<void> = {
   activate,
-  id: 'jlab-hide-code:buttonPlugin',
+  id: 'jlab-appmode',
   autoStart: true
 };
 

@@ -1,4 +1,6 @@
-# @jupyterlab/jlab-appmode
+# @jupyterlab/aixvipmap-appmode
+
+Enable app mode to automatically run this notebook on startup and hide all code cells 
 
 ## Prerequisites
 

@@ -1,6 +1,7 @@
 {
-  "name": "jlab-appmode",
-  "version": "0.1.0",
+  "name": "aixvipmap-appmode",
+  "version": "0.1.1",
+  "description": "Enable app mode to automatically run this notebook on startup and hide all code cells",
   "homepage": "http://www.aixvipmap.de",
   "bugs": {
     "url": "https://github.com/AixViPMaP"
